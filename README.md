@@ -1,6 +1,6 @@
 # HandControlledGame 🎮✋  
 A simple computer-vision based mini-game built using **Python**, **MediaPipe**, **OpenCV**, and **Pygame**.  
-You control the player **using your hand gestures** — raise your hand (open palm) to make the character jump and avoid obstacles.
+You control the player **using your hand gestures** raise your hand (open palm) to make the character jump and avoid obstacles.
 
 ---
 
