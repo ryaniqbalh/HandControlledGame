@@ -15,8 +15,7 @@ You control the player **using your hand gestures** — raise your hand (open pa
 ---
 
 ## 🖼 Demo
-*(Tambahkan GIF/video kalau nanti kamu ada — opsional)*  
-Atau screenshot gameplay/webcam.
+
 
 ---
 
